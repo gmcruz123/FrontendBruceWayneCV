@@ -1,0 +1,48 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Times New Roman", "Times", "serif";
+  color: #005677;
+  margin: 0;
+}
+
+.title {
+  background-color: #c4c4c4;
+  font-weight: 700;
+  letter-spacing: 1rem;
+}
+
+main {
+  background-color: white;
+  padding: 100px 0;
+}
+
+.sub-title {
+  background-color: #c4c4c4;
+  color: #005677;
+  letter-spacing: 5px;
+}
+
+footer {
+  background-color: #005677;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.icons {
+  width: 70px;
+}
+
+.margin-left-80px {
+  margin-left: 80px;
+}
+.margin-left-15px {
+  margin-left: 18px;
+}
